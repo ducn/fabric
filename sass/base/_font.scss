@@ -5,7 +5,7 @@ $font-icon: FontAwesome;
 $font-icon-path: "/font/fontawesome-webfont";
 
 @font-face {
-	font-family: 'FontAwesome';
+	font-family: 'Open Sans, sans-serif';
 	src: url('#{$font-icon-path}.eot');
 	src: url('#{$font-icon-path}.eot?#iefix') format('embedded-opentype'),
 		url('#{$font-icon-path}.woff') format('woff'),
