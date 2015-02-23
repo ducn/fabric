@@ -13,9 +13,9 @@
 		}
 	}
 	h1{
-        font-family: 'Slackey', cursive;
+        font-family: Open Sans, sans-serif;
 		font-weight: 300;
-		font-size: 52px;
+		font-size: 48px;
 		@media screen and (max-width: 1040px){
 			float: none;
 		}
@@ -24,10 +24,9 @@
 
 #headerbg {
     text-align: center;
-    background: #444;
     padding: 10px 10px;
     display: table;
-    color: #fff;
+    color: #484848;
     margin: 0 auto;
     border-radius: 5px;
     font-weight: bold;
